@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marshopia - Beneficios del Producto</title>
+    <style>
+        /* Estilo similar al de la página principal */
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #d9c5a2;
+            color: #000;
+        }
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+        h1 {
+            font-size: 3em;
+            font-style: italic;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            color: #000;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Marshopia</h1>
+</header>
+
+<section>
+    <h2>Beneficios del Producto</h2>
+    <p>El cepillo de peinar de Marshopia tiene numerosos beneficios tanto para los consumidores como a nivel comercial. En primer lugar, es un producto innovador que responde a las necesidades diarias de las personas, permitiendo una experiencia de cuidado capilar rápida y eficaz. A nivel personal, este cepillo ayuda a reducir el tiempo de peinado, evitando enredos y facilitando un proceso más cómodo. El diseño ergonómico también contribuye al bienestar físico, ya que minimiza el esfuerzo de peinado.</p>
+    <p>Desde una perspectiva comercial, el cepillo de Marshopia destaca por su sostenibilidad. Al estar fabricado de bambú, atrae a consumidores conscientes del medio ambiente, lo que genera una ventaja competitiva. Las personas que valoran los productos eco-amigables se sienten atraídas por nuestra oferta, lo que incrementa las ventas y la lealtad del cliente. Además, la cápsula para accesorios incorporada agrega valor al producto, ofreciendo funcionalidad extra y resolviendo problemas comunes, como perder ligas o clips. Esto hace que nuestro cepillo sea un complemento ideal en la rutina de cuidado personal.</p>
+    <p>Las empresas que buscan productos innovadores y sostenibles también se ven beneficiadas. Ofrecer el cepillo de Marshopia en sus inventarios les permitirá diversificar sus opciones y atraer a un público más amplio. Además, con la creciente tendencia hacia la sostenibilidad, los productos como el cepillo Marshopia son vistos como esenciales para cualquier línea de productos que busque modernizarse y atender a las necesidades del consumidor del siglo XXI.</p>
+</section>
+
+<footer>
+    <p>Creado por: Equipo de Marshopia</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marshopia - Beneficios del Producto</title>
+    <style>
+        /* Estilo similar al de la página principal */
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #d9c5a2;
+            color: #000;
+        }
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+        h1 {
+            font-size: 3em;
+            font-style: italic;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            color: #000;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Marshopia</h1>
+</header>
+
+<section>
+    <h2>Beneficios del Producto</h2>
+    <p>El cepillo de peinar de Marshopia tiene numerosos beneficios tanto para los consumidores como a nivel comercial. En primer lugar, es un producto innovador que responde a las necesidades diarias de las personas, permitiendo una experiencia de cuidado capilar rápida y eficaz. A nivel personal, este cepillo ayuda a reducir el tiempo de peinado, evitando enredos y facilitando un proceso más cómodo. El diseño ergonómico también contribuye al bienestar físico, ya que minimiza el esfuerzo de peinado.</p>
+    <p>Desde una perspectiva comercial, el cepillo de Marshopia destaca por su sostenibilidad. Al estar fabricado de bambú, atrae a consumidores conscientes del medio ambiente, lo que genera una ventaja competitiva. Las personas que valoran los productos eco-amigables se sienten atraídas por nuestra oferta, lo que incrementa las ventas y la lealtad del cliente. Además, la cápsula para accesorios incorporada agrega valor al producto, ofreciendo funcionalidad extra y resolviendo problemas comunes, como perder ligas o clips. Esto hace que nuestro cepillo sea un complemento ideal en la rutina de cuidado personal.</p>
+    <p>Las empresas que buscan productos innovadores y sostenibles también se ven beneficiadas. Ofrecer el cepillo de Marshopia en sus inventarios les permitirá diversificar sus opciones y atraer a un público más amplio. Además, con la creciente tendencia hacia la sostenibilidad, los productos como el cepillo Marshopia son vistos como esenciales para cualquier línea de productos que busque modernizarse y atender a las necesidades del consumidor del siglo XXI.</p>
+</section>
+
+<footer>
+    <p>Creado por: Equipo de Marshopia</p>
+</footer>
+
+</body>
+</html>
