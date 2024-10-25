@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos - Marshopia</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #d9c5a2;
+            color: #000;
+        }
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+        h1 {
+            font-size: 3em;
+            font-style: italic;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        .video-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .video-container iframe {
+            margin: 10px;
+            width: 300px;
+            height: 200px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Videos de Autocuidado Capilar</h1>
+</header>
+
+<section>
+    <h2>Videos para Todo Tipo de Pelo</h2>
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen></iframe>
+    </div>
+</section>
+
+<section>
+    <h2>¿Por qué elegir nuestro cepillo?</h2>
+    <p>El cepillo Marshopia está diseñado para simplificar la rutina diaria de cuidado capilar. Gracias a su diseño ergonómico y multifuncional, los usuarios pueden lograr un peinado perfecto en menos tiempo. Este producto es ideal para cualquier tipo de cabello, ya que su diseño no solo ayuda a desenredar, sino que también evita el daño por tirones, lo que lo convierte en una herramienta indispensable para un cabello sano y manejable...</p>
+</section>
+
+<footer>
+    <p>Regresar a la <a href="index.html">Página Principal</a></p>
+</footer>
+
+</body>
+</html>
