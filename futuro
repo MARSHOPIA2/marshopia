@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fortalecimiento - Marshopia</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #d9c5a2;
+            color: #000;
+        }
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+        h1 {
+            font-size: 3em;
+            font-style: italic;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #000;
+            color: #f5f5f5;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Fortalecimiento del Futuro de Marshopia</h1>
+</header>
+
+<section>
+    <h2>Plan de Expansión</h2>
+    <p>En los próximos cinco años, Marshopia se enfocará en expandir su presencia a nivel nacional, con el objetivo de abrir nuevas sucursales en las principales ciudades del país. Para lograr esto, invertiremos en campañas de marketing centradas en la sostenibilidad y el diseño ergonómico de nuestro producto estrella, el cepillo multifuncional. Además, trabajaremos en la creación de alianzas estratégicas con proveedores locales para asegurar que nuestros productos lleguen de manera eficiente a todos los rincones del país...</p>
+</section>
+
+<img src="https://via.placeholder.com/600x400.png" alt="Expansión de Marshopia">
+
+<footer>
+    <p>Regresar a la <a href="index.html">Página Principal</a></p>
+</footer>
+
+</body>
+</html>
